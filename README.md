@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshinipandian&label=Profile%20views&color=0e75b6&style=flat" alt="dharshinipandian" /> </p>
 
+- 🔭 I’m currently working on [Alumni Tracking System Project](https://github.com/Harinirpm/Alumini_Tracking_System.git)
+
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 👨‍💻 My Portfolio [https://dharshinipandian.netlify.app/](https://dharshinipandian.netlify.app/)
+
 - 📫 How to reach me **dharshinipandian05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
